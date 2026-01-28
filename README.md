@@ -4,3 +4,4 @@
 4. Tratamento de exceções utilizando os conceitos try, catch, finally, bem como a definição de uma classe customizada que herda da classe geral exception.
 5.  Overload: demonstração de como o C# sabe decidir entre o melhor método a invocar.  
 6. Delegate: demonstração das formas em que a evocação de métodos pode ocorrer, comentadas, mas com a sintaxe do delegate/event de fato em ação para demonstrar otimização ocorrida.
+7. Gerando Classes de Exceptions
