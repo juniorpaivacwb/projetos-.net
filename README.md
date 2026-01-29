@@ -6,3 +6,4 @@
 6. Delegate: demonstração das formas em que a evocação de métodos pode ocorrer, comentadas, mas com a sintaxe do delegate/event de fato em ação para demonstrar otimização ocorrida.
 7. Gerando Classes de Exceptions.
 8. Get Read Only: demonstra como utilizar uma classe sem o set para encapsular informações.
+9.  EventDelegateInitializer - demonstração de outras formas de usar o delegate initializer, e uma forma mais comum e prática (a que está ativa e não comentada)
