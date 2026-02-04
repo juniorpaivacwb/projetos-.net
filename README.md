@@ -13,3 +13,10 @@
 13 . Alocação de Memória no tipo Value e do Tipo Reference (ValueRef) - entendendo como são reservados valores na memória quando passados um tipo value, tipo que gera uma marcação na memória, e um tipo refence, que pode apontar para vários espaços na memória.
 14. Alocação de Memória no tipo Value e do Tipo Reference (ValueReference) - parecido com o item 13, porem com uma classe herdando de Object para utilizar ToString (para fazer o compilador interpretar corretamente quais parâmetros ele deve converter em String e trazer na tela), e Equals.
 15. Assessores e Propriedades (AssessorePropriedades) - usando enum para limitar valores que variáveis podem receber, explicitando a diferença entre Class (tipo reference quepode trabalhar com ponteiros, onde diferentes variáveis do tipo da referida class podem apontar para a mesma estrutura de memória, e Struct (tipo Value cujas varáveis a ele atribuidas não apontam para a mesma estrutura de memória, porém criam uma cópia e passam a ter a própria estrutura de memória separada).
+16. Construtores e Overloads (ContrutoreseOverloads) - aborda de maneira prática o uso de Construtores, e o Overloads que cada Construtor pode ter, baseado na quantidade de atributos que recebem, precisando nesse sentido ter um identidade única. Aborda também o uso de ":base", explicitando que ainda que um classe herde de uma Classe pai com diversos construtores, é necessário indicar com o uso de ":base" quais atributos serão passados para a classe filha.
+
+
+
+
+
+
